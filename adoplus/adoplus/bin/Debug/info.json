@@ -1,0 +1,8 @@
+{
+  "Id": "ADOPLUS",
+  "DisplayName": "ADOFAI PLUS",
+  "Author": "sans",
+  "Version": "1.0.0",
+  "AssemblyName": "adoplus.dll",
+  "EntryMethod": "adoplus.Main.Setup"
+}
